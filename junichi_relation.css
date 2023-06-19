@@ -46,6 +46,7 @@
 .junichi_rpp {
   font-family: EB Garamond; 
   font-size: 14px;
+  line-height: 18px;
 }
 .junichi_rpp > strong {
   background-color: darkred;
