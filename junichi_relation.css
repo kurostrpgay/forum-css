@@ -92,7 +92,12 @@
 .junichi_rpch {
   padding: 10px 0;
 }
-.junichi_rpch a, .junichi_rpch strong {
+.junichi_rpch a {
+  color: darkred;
+  font-weight: bold;
+  text-decoration-line: underline;
+}
+.junichi_rpch strong {
   color: darkred;
   font-weight: bold;
 }
