@@ -61,7 +61,6 @@
   display: flex;
   margin: 10px auto;
   height: 80px;
-  background-color: rgba(139, 0, 0, 0.4);
 }
 .junichi_rpp_bx img {
   float: left;
@@ -101,8 +100,6 @@
 .junichi_rpc {
   width: 500px;
   margin: 0 auto;
-  padding: 5px 0;
-  height: 12px;
   background-color: black;
   font-size: 10px;
   color: white;
