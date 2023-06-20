@@ -39,17 +39,18 @@
   padding: 40px 0;
   width: 460px;
   background-color: darkred;
+  height: 161px;
+
 }
 .junichi_pt1 div {
   font-size: 12px;
-  height: 50px;
-  margin: -5px auto 0 auto;
+  margin: -3px auto 0 auto;
   font-style: italic;
 }
 .junichi_pt2 {
   width: 320px;
   padding: 0 20px 20px 20px;
-  margin: 40px auto 0 auto;
+  margin: 50px auto 0 auto;
   background-color: white;
   font-size: 14px;
   line-height: 18px;
